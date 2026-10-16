@@ -1,0 +1,18 @@
+# Danimal's LED lightshow
+
+A simple Arduino project that lights up 5 LEDs in a sequence, then turns them off in its reversed order
+
+# Simulation
+
+Tested from https://wokwi.com - [https://wokwi.com/projects/478012936241406977]
+
+# Hardware List
+
+- Arduino Uno board
+- 5 LEDs
+- 5 220 Ohm resistors
+
+# Pins
+
+LEDs should be placed on pins 2 - 6
+
